@@ -33,6 +33,6 @@
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
 
 <div align="center">
-    <img height="160em" width="500em" src="https://github-readme-stats.vercel.app/api?username=CarlosPhysicandMath&show_icons=true&include_all_commits=true&theme=radical"/>
-    <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosPhysicandMath&layout=compact&langs_count=6)](https://github.com/vargastm/github-readme-statsCompact&theme=radical"/>
+    <img height="160em"  src="https://github-readme-stats.vercel.app/api?username=CarlosPhysicandMath&show_icons=true&include_all_commits=true&theme=radical"/>
+    <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosPhysicandMath&layout=compact&langs_count=6)](https://github.com/vargastm/github-readme-statsCompact&theme=radical"/>
 </div>
