@@ -25,6 +25,7 @@
 
 
 ### Find me elsewhere 🌎
+##
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]()
@@ -32,6 +33,6 @@
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosPhysicandMath&show_icons=true&include_all_commits=true&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosPhysicandMath&layout=compact&langs_count=6)](https://github.com/vargastm/github-readme-statsCompact&theme=radical"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CarlosPhysicandMath&show_icons=true&include_all_commits=true&theme=radical"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosPhysicandMath&layout=compact&langs_count=6)](https://github.com/vargastm/github-readme-statsCompact&theme=radical"/>
 </div>
