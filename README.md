@@ -3,7 +3,7 @@
   
 -  📐 🔭 📚 ⚡  I have a degree in Mathematics and Physics.
 - 👨‍🎓 I’m currently studying computer systems.
-- 📚 💻 I’m currently learning JavaScript and PHP
+- 📚 💻 I’m currently learning JavaScript , PHP and C.
 - 👯 I made some projects using HTML, CSS, JavaScrpit, Materialize and Bootstrap
 - ❤️ I'm passionate about solving problems.
 - 📝 I seek to learn more and more about front-end and back-end.
