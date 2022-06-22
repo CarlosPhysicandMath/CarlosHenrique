@@ -3,7 +3,7 @@
   
 -  📐 🔭 📚 ⚡  I have a degree in Mathematics and Physics.
 - 👨‍🎓 I’m currently studying computer systems.
-- 📚 💻 I’m currently learning JavaScript , PHP and C.
+- 📚 💻 I’m currently learning JavaScript and C.
 - 👯 I made some projects using HTML, CSS, JavaScrpit, Materialize and Bootstrap
 - ❤️ I'm passionate about solving problems.
 - 📝 I seek to learn more and more about front-end and back-end.
@@ -17,7 +17,7 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height = "50" width= "60" />
 <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height = "50" width= "60" />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height = "50" width= "60" />
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  height = "50" width= "60"  />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  height = "50" width= "60"  />
   
  </div>
 
